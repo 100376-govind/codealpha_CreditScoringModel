@@ -47,8 +47,4 @@ To build and compare machine learning models that predict whether an individual 
 
 ---
 
-## 📁 Dataset
 
-- Source: [Add your dataset source or upload CSV file in repo]
-- Type: CSV / Excel
-- Description:
