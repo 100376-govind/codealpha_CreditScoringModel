@@ -38,7 +38,7 @@ To build and compare machine learning models that predict whether an individual 
 
 ## 🛠️ Tools & Libraries
 
-- Python 3.x
+- Python 3.10
 - Scikit-learn
 - Pandas
 - NumPy
